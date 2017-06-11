@@ -6,7 +6,7 @@ Join us on July 29 in Memphis, TN to take part in our local NodeBots Day!  We'll
 
 ## Preparing for NodeBots Day
 
-(Buy Parts)[PARTS_LIST.md]
+[Buy Parts](PARTS_LIST.md)
 
 There are many, many great NodeBot examples out there.  A simple rover is a good, fun, recognizable project that has wide appeal.  Plus, you can play soccer with them.
 
@@ -25,7 +25,7 @@ In order to avoid the use of soldering irons at the event itself, some pre-solde
 * Solder wire leads onto motors.  The yellow motors come with two detached wires. They should be soldered onto the terminals on the motors.
 * Solder female header pin strip onto WeMos D1 Mini.  The D1 Mini comes with a variety of header options.  I like the short-pin female headers, as they give the chip a sturdier feel.
 * Put kit elements together.  Bag up the chassis, chips, jumpers, connectors, and batteries into a single kit.
-* Modify Firmaware (as per these instructions.)[https://github.com/hxlnt/feather-nodebot/wiki/1.-Setting-up-the-Feather-HUZZAH-microcontroller#user-content-setting-up-the-feather-huzzah-with-firmata-and-johnny-five]
+* Modify Firmaware [as per these instructions.](https://github.com/hxlnt/feather-nodebot/wiki/1.-Setting-up-the-Feather-HUZZAH-microcontroller#user-content-setting-up-the-feather-huzzah-with-firmata-and-johnny-five)
 * Install Firmware
 * Connect to wireless router and note the IP address. 
 * Assign a static/reserved IP address for each device.
@@ -55,4 +55,4 @@ For NodeBots 2017 Memphis, we'll be building small rovers. The kit will be simpl
 1. Prizes (15m)
 1. Clean Up
 
-Point participants to the (ASSEMBLY.md)[ASSEMBLY.md] for instructions when on their own.
+Point participants to the [ASSEMBLY.md](ASSEMBLY.md) for instructions when on their own.
