@@ -6,7 +6,7 @@
 * Get Git client (if needed)
 * Download code
 * Open CLI/terminal window
-* Clone basic code (this repo)
+* Clone (basic code)[code/index.js]
 
 ### Assembling Bot:
 

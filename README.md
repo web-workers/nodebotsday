@@ -6,7 +6,7 @@ Join us on July 29 in Memphis, TN to take part in our local NodeBots Day!  We'll
 
 ## Preparing for NodeBots Day
 
-(Buy Parts)[./PARTS_LIST.md]
+(Buy Parts)[PARTS_LIST.md]
 
 There are many, many great NodeBot examples out there.  A simple rover is a good, fun, recognizable project that has wide appeal.  Plus, you can play soccer with them.
 
@@ -55,4 +55,4 @@ For NodeBots 2017 Memphis, we'll be building small rovers. The kit will be simpl
 1. Prizes (15m)
 1. Clean Up
 
-Point participants to the ASSEMBLY.md for instructions when on their own.
+Point participants to the (ASSEMBLY.md)[ASSEMBLY.md] for instructions when on their own.
