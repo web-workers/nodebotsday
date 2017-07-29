@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "etherport-client": "^0.1.2",
+    "xbox-controller": "https://github.com/andrew/node-xbox-controller",
     "johnny-five": "^0.10.8",
     "scale-number-range": "^1.0.3"
   }
