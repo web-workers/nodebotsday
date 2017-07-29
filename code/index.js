@@ -9,7 +9,7 @@ var EtherPortClient = require("etherport-client").EtherPortClient;
 // to communicate between your computer and the NodeBot
 var bot = new five.Board({
     port: new EtherPortClient({
-        host: "192.168.2.125", // Put your individual IP address here.
+        host: "192.168.2.158", // Put your individual IP address here.
         port: 3030
     }),
     timeout: 1e5
