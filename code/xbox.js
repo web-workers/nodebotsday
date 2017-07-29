@@ -45,17 +45,17 @@ bot.on("ready", function () {
     });
 
 
-    // The scale function converts the PS4 joystick 'y' position to an appropriate motor speed value.
+    // The scale function converts the xbox joystick 'y' position to an appropriate motor speed value.
     // Motor speed values go from 0 - 255, but really the motor only starts moving at around 128.
     // https://github.com/nickpoorman/scale-number-range
 
     function getFwdSpeed(y) {
-        // convert 'y' values from 90 to 0 to 'speed' values from 128 to 255
+        // convert 'y' values from 0 to -32768 to 'speed' values from 128 to 255
         return scale(y, 0, -32768, 128, 255);
     }
 
     function getRevSpeed(y) {
-        // convert 'y' values from 166 to 255 to 'speed' values from 128 to 255
+        // convert 'y' values from 0 to 32768 to 'speed' values from 128 to 255
         return scale(y, 0, 32768, 128, 255);
     }
 
